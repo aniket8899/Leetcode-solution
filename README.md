@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniket8899/Leetcode-solution/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [2716-minimize-string-length](https://github.com/aniket8899/Leetcode-solution/tree/main/2716-minimize-string-length/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2716-minimize-string-length](https://github.com/aniket8899/Leetcode-solution/tree/main/2716-minimize-string-length/) | Easy |
 <!---LeetCode Topics End-->
