@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/aniket8899/Leetcode-solution/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/aniket8899/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aniket8899/Leetcode-solution/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2716-minimize-string-length](https://github.com/aniket8899/Leetcode-solution/tree/main/2716-minimize-string-length/) | Easy |
 ## Two Pointers
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/aniket8899/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
