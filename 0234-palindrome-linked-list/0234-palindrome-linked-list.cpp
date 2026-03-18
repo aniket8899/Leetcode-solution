@@ -61,7 +61,7 @@ public:
         ListNode* temp1=left;
         ListNode* temp2=reverse;
 
-        while(temp1!=NULL){
+        while(temp2!=NULL){
             if(temp1->val !=temp2->val){
                 return false;
             }else{
