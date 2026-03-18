@@ -10,32 +10,27 @@
  */
 class Solution {
 public:
+    ListNode* reverse(ListNode* prev,ListNode* curr){
+        if(curr==NULL){
+            return prev;
+        }
+
+        ListNode* forward=curr->next;
+
+        curr->next=prev;
+        prev=curr;
+        curr=forward;
+
+        return reverse(prev,curr);
+    }
+
     ListNode* reverseList(ListNode* head) {
-        // ListNode*prev=NULL;
-        // ListNode*curr=head;
-        // while(curr!=NULL){
-        //     ListNode*forward=curr->next;
-        //     curr->next=prev;
-        //     prev=curr;
-        //     curr=forward;
-        // }
-        // return prev;
+        ListNode* prev=NULL;
+        ListNode* curr=head;
 
-    ListNode* temp=head;
-    stack<int>st;
+        ListNode* newhead=reverse(prev,curr);
 
-    while(temp!=NULL){
-        st.push(temp->val);
-        temp=temp->next;
-    }
-
-    temp=head;
-
-    while(temp!=NULL){
-        temp->val=st.top();
-        st.pop();
-        temp=temp->next;
-    }
-        return head;
+        return newhead;
+        
     }
 };
