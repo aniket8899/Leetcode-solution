@@ -39,34 +39,58 @@ public:
 
         // return dummy->next;
 
-        ListNode* temp=head;
-        ListNode* deletenode=NULL;
+        // ListNode* temp=head;
+        // ListNode* deletenode=NULL;
 
-        int length=getlength(head);
-        int result=length-n;
+        // int length=getlength(head);
+        // int result=length-n;
 
-        // n==length
-        if(length==n){
-            ListNode* temp=head;
-            head=head->next;
-            delete temp;
-            return head;
-        }
-        while(temp!=NULL){
-            result--;
+        // // n==length
+        // if(length==n){
+        //     ListNode* temp=head;
+        //     head=head->next;
+        //     delete temp;
+        //     return head;
+        // }
+        // while(temp!=NULL){
+        //     result--;
 
-            if(result==0){
-                break;
-            }
-            temp=temp->next;
+        //     if(result==0){
+        //         break;
+        //     }
+        //     temp=temp->next;
 
            
-        }
-            deletenode=temp->next;
+        // }
+        //     deletenode=temp->next;
 
-            temp->next=temp->next->next;
-         delete deletenode;
+        //     temp->next=temp->next->next;
+        //  delete deletenode;
+        // return head;
+
+
+        ListNode* fast=head;
+        ListNode* slow=head;
+        for(int i=0;i<n;i++){
+            fast=fast->next;
+        }
+
+        if(fast==NULL) return head->next;
+
+        while(fast->next!=NULL){
+            fast=fast->next;
+            slow=slow->next;
+        }
+        ListNode* deletenode=slow->next;
+        slow->next=slow->next->next;
+        delete deletenode;
+
         return head;
+
+
+
+
+
 
         
     }
