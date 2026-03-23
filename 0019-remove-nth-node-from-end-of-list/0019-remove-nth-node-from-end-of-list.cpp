@@ -77,7 +77,7 @@ public:
 
         if(fast==NULL) return head->next;
 
-        while(fast->next!=NULL){
+        while( fast!=NULL &&fast->next!=NULL){
             fast=fast->next;
             slow=slow->next;
         }
