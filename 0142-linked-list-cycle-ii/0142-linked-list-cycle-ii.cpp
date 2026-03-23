@@ -8,23 +8,54 @@
  */
 class Solution {
 public:
-    ListNode *detectCycle(ListNode *head) {
-        ListNode* temp=head;
+    ListNode* cycledetect(ListNode* head){
+        ListNode* slow=head;
+        ListNode* fast=head;
 
-        // if(head!=NULL && head->next!=NULL){
-        //     return head;
-        // }
+        while(fast!=NULL){
+            fast=fast->next;
 
-        map<ListNode*,int>mp;
-        while(temp!=NULL){
-            if(mp.find(temp)!=mp.end()){
-                return temp;
+            if(fast!=NULL){
+                slow=slow->next;
+                fast=fast->next;
+
+
+                if(slow==fast){
+                    return slow;
+                }
             }
-
-            mp[temp]=1;
-            temp=temp->next;
         }
         return NULL;
+    }
+    ListNode *detectCycle(ListNode *head) {
+        // ListNode* temp=head;
+
+        // // if(head!=NULL && head->next!=NULL){
+        // //     return head;
+        // // }
+
+        // map<ListNode*,int>mp;
+        // while(temp!=NULL){
+        //     if(mp.find(temp)!=mp.end()){
+        //         return temp;
+        //     }
+
+        //     mp[temp]=1;
+        //     temp=temp->next;
+        // }
+        // return NULL;
+
+
+        ListNode* fast=cycledetect(head);
+        if(!fast ) return NULL;
+
+        ListNode* slow=head;
+
+        while(slow!=fast){
+            slow=slow->next;
+            fast=fast->next;
+        }
+        return slow;
         
     }
 };
