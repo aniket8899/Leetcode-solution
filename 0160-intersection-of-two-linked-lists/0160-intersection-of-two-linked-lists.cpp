@@ -88,6 +88,6 @@ public:
                 temp2=headA;
             }
         }
-        return NULL;
+        return temp1;
     }
 };
