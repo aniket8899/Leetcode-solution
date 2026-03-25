@@ -42,27 +42,52 @@ public:
         // }
         // return NULL;
 
-        ListNode* temp=headA;
-        int n1=0;
+        // ListNode* temp=headA;
+        // int n1=0;
 
-        while(temp!=NULL){
-            n1++;
-            temp=temp->next;
-        }
+        // while(temp!=NULL){
+        //     n1++;
+        //     temp=temp->next;
+        // }
 
-        temp=headB;
-        int n2=0;
+        // temp=headB;
+        // int n2=0;
 
-        while(temp!=NULL){
-            n2++;
-            temp=temp->next;
-        }
+        // while(temp!=NULL){
+        //     n2++;
+        //     temp=temp->next;
+        // }
 
-        if(n1<n2){
-            return collision(headA,headB,n2-n1);
+        // if(n1<n2){
+        //     return collision(headA,headB,n2-n1);
+        // }
+        // else{
+        //     return collision(headB,headA,n1-n2);
+        // }
+
+
+
+        if(headA==NULL || headB==NULL) return NULL;
+
+        ListNode* temp1=headA;
+        ListNode* temp2=headB;
+
+        while(temp1!=temp2){
+            temp1=temp1->next;
+            temp2=temp2->next;
+
+            if(temp1==temp2){
+                return temp1;
+            }
+
+            if(temp1==NULL){
+                temp1=headB;
+            }
+
+            if(temp2==NULL){
+                temp2=headA;
+            }
         }
-        else{
-            return collision(headB,headA,n1-n2);
-        }
+        return NULL;
     }
 };
