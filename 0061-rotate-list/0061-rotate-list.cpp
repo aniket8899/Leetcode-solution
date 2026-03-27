@@ -10,34 +10,45 @@
  */
 class Solution {
 public:
-    ListNode* rotateRight(ListNode* head, int k) {
-        if(!head || !head->next ||k==0) return head;
+
+    ListNode* findnthnode(ListNode* head,int k){
         ListNode* temp=head;
-        vector<int>ans;
-        while(temp!=nullptr){
-            ans.push_back(temp->val);
+        int cnt=1;
+
+        while(temp!=NULL){
+            if(cnt==k){
+                return temp;
+            }
+            cnt++;
             temp=temp->next;
         }
-        vector<int>rotated;
-        int n=ans.size();
-        k%=n;
-        if(k==0) return head;
-        for(int j=n-k;j<n;j++){
-            rotated.push_back(ans[j]);
-        }
-        for(int i=0;i<n-k;i++){
-            rotated.push_back(ans[i]);
-        }
-        ListNode* newhead=new ListNode(rotated[0]);
-        ListNode* curr=newhead;
-        for(int i=1;i<n;i++){
-            curr->next=new ListNode(rotated[i]);
-            curr=curr->next;
-        }
-        return newhead;
-        
+        return temp;
+    }
+    ListNode* rotateRight(ListNode* head, int k) {
 
+        if(head==NULL || k==0) return head;
+        ListNode* tail=head;
+        int len=1;
 
+        while(tail->next!=NULL){
+            len++;
+            tail=tail->next;
+        }
+
+        if(k%len==0) return head;
+
+        k%=len;
+
+        //attach tail
+
+        tail->next=head;
+
+        ListNode* nextnode=findnthnode(head,len-k);
+
+        head=nextnode->next;
+        nextnode->next=NULL;
+
+        return head;
         
     }
 };
