@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/aniket8899/Leetcode-solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/aniket8899/Leetcode-solution/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2716-minimize-string-length](https://github.com/aniket8899/Leetcode-solution/tree/main/2716-minimize-string-length/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aniket8899/Leetcode-solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
