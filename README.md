@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/aniket8899/Leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0136-single-number](https://github.com/aniket8899/Leetcode-solution/tree/main/0136-single-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/aniket8899/Leetcode-solution/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -182,4 +183,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
