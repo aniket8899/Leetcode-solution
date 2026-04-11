@@ -34,21 +34,19 @@ public:
       }
 
 
-       temp=head;
-       int cnt=0;
+       temp=head->next;
+       ListNode* prev=NULL;
       
 
        for(int i=0;i<result.size();i++){
         temp->val=result[i];
+        prev=temp;
         temp=temp->next;
-        cnt++;
-        if(cnt==result.size()-1){
-            temp->next=NULL;
-        }
         
        }
+       prev->next=NULL;
 
-       return head;
+       return head->next;
 
 
 
