@@ -22,37 +22,41 @@ public:
     int sum=0;
     int k=0;
     vector<int>result;
-       for(int i=1;i<ans.size();i++){
-          if(ans[i]!=0){
+      for(int i=0;i<ans.size();i++){
+        if(ans[i]!=0){
             sum+=ans[i];
-          }else{
-           result.push_back(sum);
-           k++;
-            sum=0;
-          }
+        }else{
+            if(sum!=0){
+                result.push_back(sum);
+                sum=0;
+            }
+        }
+      }
+
+
+       temp=head;
+       int cnt=0;
+      
+
+       for(int i=0;i<result.size();i++){
+        temp->val=result[i];
+        temp=temp->next;
+        cnt++;
+        if(cnt==result.size()-1){
+            temp->next=NULL;
+        }
         
-
-
        }
+
+       return head;
+
+
 
 
       
 
 
-       int n=result.size();
-
-       ListNode* node = new ListNode(-1);
-       ListNode* temps=node;
-
-       for(int j=0;j<k;j++){
-        ListNode*  newnode = new ListNode(result[j]);
-        temps->next=newnode;
-        temps=temps->next;
-
-
-    
-       }
-       return node->next;
+      
         
     }
 };
