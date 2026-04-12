@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aniket8899/Leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/aniket8899/Leetcode-solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/aniket8899/Leetcode-solution/tree/main/0078-subsets/) | Medium |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/aniket8899/Leetcode-solution/tree/main/0037-sudoku-solver/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/aniket8899/Leetcode-solution/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/aniket8899/Leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniket8899/Leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/aniket8899/Leetcode-solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniket8899/Leetcode-solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/aniket8899/Leetcode-solution/tree/main/0205-isomorphic-strings/) | Easy |
@@ -198,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniket8899/Leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/aniket8899/Leetcode-solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/aniket8899/Leetcode-solution/tree/main/0078-subsets/) | Medium |
