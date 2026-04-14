@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniket8899/Leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0125-valid-palindrome](https://github.com/aniket8899/Leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/aniket8899/Leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/aniket8899/Leetcode-solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/aniket8899/Leetcode-solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/aniket8899/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
@@ -213,9 +214,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/aniket8899/Leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/aniket8899/Leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/0216-combination-sum-iii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/aniket8899/Leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
