@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2585-number-of-ways-to-earn-points](https://github.com/aniket8899/Leetcode-solution/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/aniket8899/Leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -239,4 +240,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2585-number-of-ways-to-earn-points](https://github.com/aniket8899/Leetcode-solution/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
 <!---LeetCode Topics End-->
