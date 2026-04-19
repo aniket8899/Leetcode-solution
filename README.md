@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/aniket8899/Leetcode-solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/aniket8899/Leetcode-solution/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0494-target-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/aniket8899/Leetcode-solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/aniket8899/Leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/0216-combination-sum-iii/) | Medium |
+| [0494-target-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0494-target-sum/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/aniket8899/Leetcode-solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/aniket8899/Leetcode-solution/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0494-target-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
