@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2278-percentage-of-letter-in-string](https://github.com/aniket8899/Leetcode-solution/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2716-minimize-string-length](https://github.com/aniket8899/Leetcode-solution/tree/main/2716-minimize-string-length/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/aniket8899/Leetcode-solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/aniket8899/Leetcode-solution/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aniket8899/Leetcode-solution/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2833-furthest-point-from-origin](https://github.com/aniket8899/Leetcode-solution/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/aniket8899/Leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
