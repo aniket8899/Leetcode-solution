@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/aniket8899/Leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aniket8899/Leetcode-solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aniket8899/Leetcode-solution/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/aniket8899/Leetcode-solution/tree/main/0050-powx-n/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aniket8899/Leetcode-solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aniket8899/Leetcode-solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/aniket8899/Leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aniket8899/Leetcode-solution/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2716-minimize-string-length](https://github.com/aniket8899/Leetcode-solution/tree/main/2716-minimize-string-length/) | Easy |
@@ -299,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/aniket8899/Leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/aniket8899/Leetcode-solution/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -317,5 +321,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/aniket8899/Leetcode-solution/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 <!---LeetCode Topics End-->
