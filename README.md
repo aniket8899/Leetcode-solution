@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/aniket8899/Leetcode-solution/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
+| [1759-count-number-of-homogenous-substrings](https://github.com/aniket8899/Leetcode-solution/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aniket8899/Leetcode-solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aniket8899/Leetcode-solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aniket8899/Leetcode-solution/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1513-number-of-substrings-with-only-1s](https://github.com/aniket8899/Leetcode-solution/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1759-count-number-of-homogenous-substrings](https://github.com/aniket8899/Leetcode-solution/tree/main/1759-count-number-of-homogenous-substrings/) | Medium |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/aniket8899/Leetcode-solution/tree/main/1771-maximize-palindrome-length-from-subsequences/) | Hard |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aniket8899/Leetcode-solution/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniket8899/Leetcode-solution/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
