@@ -1,22 +1,28 @@
 class Solution {
 public:
-const int mod=1e9+7;
+    const int mod=1e9+7;
+
+int solve(int n){
+    return n*(n+1)/2;
+}
+
     int numSub(string s) {
-
-        int n=s.size();
-        int sum=0;
         int cnt=0;
+        int sum=0;
 
-        for(int i=0;i<n;i++){
+        for(int i=0;i<s.size();i++){
             if(s[i]=='1'){
                 cnt++;
             }else{
+                sum=(sum+solve(cnt))%mod;
                 cnt=0;
-                
             }
-            sum=(sum+cnt)%mod;
         }
-        return sum;
+        if(cnt){
+            sum=(sum+solve(cnt))%mod;
+        }
+
+        return sum%mod;
         
     }
 };
