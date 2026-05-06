@@ -2,7 +2,7 @@ class Solution {
 public:
     const int mod=1e9+7;
 
-int solve(int n){
+   long long solve(long long n){
     return n*(n+1)/2;
 }
 
