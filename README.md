@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2585-number-of-ways-to-earn-points](https://github.com/aniket8899/Leetcode-solution/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/aniket8899/Leetcode-solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/aniket8899/Leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aniket8899/Leetcode-solution/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2716-minimize-string-length](https://github.com/aniket8899/Leetcode-solution/tree/main/2716-minimize-string-length/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/aniket8899/Leetcode-solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aniket8899/Leetcode-solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aniket8899/Leetcode-solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/aniket8899/Leetcode-solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/aniket8899/Leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
