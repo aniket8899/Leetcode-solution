@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1306-jump-game-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/aniket8899/Leetcode-solution/tree/main/1345-jump-game-iv/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aniket8899/Leetcode-solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aniket8899/Leetcode-solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/aniket8899/Leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1345-jump-game-iv](https://github.com/aniket8899/Leetcode-solution/tree/main/1345-jump-game-iv/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aniket8899/Leetcode-solution/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2716-minimize-string-length](https://github.com/aniket8899/Leetcode-solution/tree/main/2716-minimize-string-length/) | Easy |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [1306-jump-game-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/aniket8899/Leetcode-solution/tree/main/1345-jump-game-iv/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
