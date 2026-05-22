@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/aniket8899/Leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
+| [0135-candy](https://github.com/aniket8899/Leetcode-solution/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/aniket8899/Leetcode-solution/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0135-candy](https://github.com/aniket8899/Leetcode-solution/tree/main/0135-candy/) | Hard |
 | [0860-lemonade-change](https://github.com/aniket8899/Leetcode-solution/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aniket8899/Leetcode-solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/aniket8899/Leetcode-solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
