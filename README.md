@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/0216-combination-sum-iii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/aniket8899/Leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/aniket8899/Leetcode-solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/aniket8899/Leetcode-solution/tree/main/0354-russian-doll-envelopes/) | Hard |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/aniket8899/Leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
