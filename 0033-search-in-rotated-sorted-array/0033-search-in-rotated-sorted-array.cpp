@@ -14,7 +14,7 @@ public:
             }
 
             // left half
-            if(nums[st]<=nums[mid]){
+            if(nums[st]<= nums[mid]){
                   // answer left side me hoga
                   if(target>=nums[st] && target <=nums[mid]){
                     // left side jao
