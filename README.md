@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1306-jump-game-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/aniket8899/Leetcode-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/aniket8899/Leetcode-solution/tree/main/1345-jump-game-iv/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aniket8899/Leetcode-solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/aniket8899/Leetcode-solution/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [1340-jump-game-v](https://github.com/aniket8899/Leetcode-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aniket8899/Leetcode-solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aniket8899/Leetcode-solution/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1340-jump-game-v](https://github.com/aniket8899/Leetcode-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/aniket8899/Leetcode-solution/tree/main/1771-maximize-palindrome-length-from-subsequences/) | Hard |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
