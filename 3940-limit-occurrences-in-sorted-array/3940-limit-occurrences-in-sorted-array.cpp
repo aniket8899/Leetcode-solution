@@ -5,7 +5,7 @@ public:
         int n=nums.size();
         // int cnt=0;
 
-       unordered_map<int,int>mp;
+       map<int,int>mp;
 
        for(auto num:nums){
         mp[num]++;
@@ -26,7 +26,7 @@ public:
         }
            
        }
-       sort(ans.begin(),ans.end());
+    //    sort(ans.begin(),ans.end());
        return ans;
     }
 };
