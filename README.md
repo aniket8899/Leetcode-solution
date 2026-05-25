@@ -354,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,4 +379,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aniket8899/Leetcode-solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
