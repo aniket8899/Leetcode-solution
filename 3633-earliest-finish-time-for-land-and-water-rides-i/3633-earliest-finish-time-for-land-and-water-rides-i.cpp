@@ -7,30 +7,32 @@ public:
 
         int mini=INT_MAX;
 
-        // first start land ride
+
+     
+
         for(int i=0;i<n;i++){
-            int total=landStartTime[i]+landDuration[i];
-
             for(int j=0;j<m;j++){
-                int start=max(total,waterStartTime[j]);
+                // first start land ride
 
-                int storevalue=start+waterDuration[j];
+                int landfinish=landStartTime[i]+landDuration[i];
 
-                mini=min(storevalue,mini);
-            }
-        }
+                int  start=max(landfinish,waterStartTime[j]);
+                int total=start+waterDuration[j];
 
-        // first start water ride
+                mini=min(mini,total);
 
-         for(int i=0;i<m;i++){
-            int total=waterStartTime[i]+waterDuration[i];
 
-            for(int j=0;j<n;j++){
-                int start=max(total,landStartTime[j]);
+                // first start water ride
 
-                int storevalue=start+landDuration[j];
+                int waterfinish=waterStartTime[j]+waterDuration[j];
 
-                mini=min(storevalue,mini);
+                int start1=max(waterfinish,landStartTime[i]);
+
+                int total1=start1+landDuration[i];
+
+                mini=min(mini,total1);
+
+
             }
         }
 
