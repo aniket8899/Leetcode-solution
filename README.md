@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/aniket8899/Leetcode-solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2585-number-of-ways-to-earn-points](https://github.com/aniket8899/Leetcode-solution/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aniket8899/Leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/aniket8899/Leetcode-solution/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aniket8899/Leetcode-solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/aniket8899/Leetcode-solution/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/aniket8899/Leetcode-solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
