@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aniket8899/Leetcode-solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/aniket8899/Leetcode-solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aniket8899/Leetcode-solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aniket8899/Leetcode-solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aniket8899/Leetcode-solution/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aniket8899/Leetcode-solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniket8899/Leetcode-solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/aniket8899/Leetcode-solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aniket8899/Leetcode-solution/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
