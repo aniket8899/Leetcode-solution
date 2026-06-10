@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aniket8899/Leetcode-solution/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniket8899/Leetcode-solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,4 +427,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
