@@ -4,15 +4,25 @@ public:
         int n=words.size();
         string ans="";
 
-        for(int i=0;i<words.size();i++){
-            int sum=0;
-            for(int j=0;j<words[i].size();j++){
-                sum+=weights[words[i][j]-'a'];
-            }
-           int modvalue=sum%26;
+        // for(int i=0;i<words.size();i++){
+        //     int sum=0;
+        //     for(int j=0;j<words[i].size();j++){
+        //         sum+=weights[words[i][j]-'a'];
+        //     }
+
+            for(auto w:words){
+                int sum=0;
+                for(char ch:w){
+                sum+=weights[ch-'a'];
+
+                }
+
+            int modvalue=sum%26;
             int mapped='z'-modvalue;
             ans+=mapped;
-        }
+            }
+           
+        // }
         return ans;
         
     }
