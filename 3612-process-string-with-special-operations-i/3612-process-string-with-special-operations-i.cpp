@@ -10,7 +10,8 @@ public:
 
         for(int i=0;i<n;i++){
             if(s[i]=='#'){
-               ans.append(ans);
+            //    ans.append(ans);
+              ans=ans+ans;
             }else if(s[i]=='*'){
                if(!ans.empty()){
                  ans.pop_back();
