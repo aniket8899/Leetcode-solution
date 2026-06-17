@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/aniket8899/Leetcode-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2181-merge-nodes-in-between-zeros](https://github.com/aniket8899/Leetcode-solution/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/aniket8899/Leetcode-solution/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniket8899/Leetcode-solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
