@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2585-number-of-ways-to-earn-points](https://github.com/aniket8899/Leetcode-solution/tree/main/2585-number-of-ways-to-earn-points/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/aniket8899/Leetcode-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/aniket8899/Leetcode-solution/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/aniket8899/Leetcode-solution/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
