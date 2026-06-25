@@ -5,15 +5,31 @@ public:
         int n=nums.size();
         int cnt=0;
 
+        // for(int i=0;i<n;i++){
+        //     unordered_map<int,int>mp;
+
+        //     for(int j=i;j<n;j++){
+        //         mp[nums[j]]++;
+
+        //         int length=j-i+1;
+
+        //         if(mp[target]>length/2){
+        //             cnt++;
+        //         }
+        //     }
+        // }
+
         for(int i=0;i<n;i++){
-            unordered_map<int,int>mp;
+            int total=0;
 
             for(int j=i;j<n;j++){
-                mp[nums[j]]++;
+                if(target==nums[j])
+                    total++;
+                
 
                 int length=j-i+1;
 
-                if(mp[target]>length/2){
+                if(total>length/2){
                     cnt++;
                 }
             }
