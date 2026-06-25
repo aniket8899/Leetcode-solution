@@ -19,22 +19,41 @@ public:
         //     }
         // }
 
+        // for(int i=0;i<n;i++){
+        //     int total=0;
+
+        //     for(int j=i;j<n;j++){
+        //         if(target==nums[j])
+        //             total++;
+                
+
+        //         int length=j-i+1;
+
+        //         if(total>length/2){
+        //             cnt++;
+        //         }
+        //     }
+        // }
+
+        // return cnt;
+
+
         for(int i=0;i<n;i++){
             int total=0;
 
             for(int j=i;j<n;j++){
-                if(target==nums[j])
-                    total++;
-                
 
-                int length=j-i+1;
+                if(nums[j]==target){
+                    total+=1;
+                }else{
+                    total-=1;
+                }
 
-                if(total>length/2){
+                if(total>0){
                     cnt++;
                 }
             }
         }
-
         return cnt;
         
     }
