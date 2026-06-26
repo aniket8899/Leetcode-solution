@@ -1,6 +1,20 @@
 class Solution {
 public:
     typedef long long ll;
+
+   // [1,2,2,3] ----> transform [-1,1,1,-1]  {jab target ka euqal ho toh usa +1 kara nhi toh -1}
+
+//     [-1,1,1,-1]  ---> ssum---  -1,
+//     [-1,1,1,-1]  ---> ssum---  -1+1=0,
+//     [-1,1,1,-1]  ---> ssum---  0+1=1,
+//     [-1,1,1,-1]  ---> ssum---  -1+1=0,
+
+ /// cummsum=[-1,0,1,0]
+                               
+
+
+
+
     long long countMajoritySubarrays(vector<int>& nums, int target) {
         int n=nums.size();
 
@@ -24,8 +38,8 @@ public:
             }
 
 
-            mp[cummsum]+=1;
-            result+=validleftpoints;
+            mp[cummsum]+=1; // map me store kareta rhenga
+            result+=validleftpoints; // result me valid ans add karta rhnega
 
         }
 
