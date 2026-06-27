@@ -36,20 +36,20 @@ public:
 
 
         for(auto it:mp){
-            int curr=it.first;
+            ll curr=it.first;
 
             if(curr==1){
                 continue;
             }
-            ll val=curr;
+            // ll val=curr;
             ll len=0;
 
-            while(mp.find(val)!=mp.end() && mp[val]>1){
+            while(mp.find(curr)!=mp.end() && mp[curr]>1){
                 len+=2;
-                val=val*val;
+                curr=curr*curr; // yeha pattern check kar rha h
             }
 
-            if(mp.find(val)!=mp.end()){
+            if(mp.find(curr)!=mp.end()){
                 len+=1; // agar mil gya toh len 1 hoga 
             }else{
                 len-=1;
