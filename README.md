@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniket8899/Leetcode-solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/aniket8899/Leetcode-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/aniket8899/Leetcode-solution/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniket8899/Leetcode-solution/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aniket8899/Leetcode-solution/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aniket8899/Leetcode-solution/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/aniket8899/Leetcode-solution/tree/main/0860-lemonade-change/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aniket8899/Leetcode-solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/aniket8899/Leetcode-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniket8899/Leetcode-solution/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aniket8899/Leetcode-solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aniket8899/Leetcode-solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/aniket8899/Leetcode-solution/tree/main/2126-destroying-asteroids/) | Medium |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aniket8899/Leetcode-solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/aniket8899/Leetcode-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/aniket8899/Leetcode-solution/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniket8899/Leetcode-solution/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/aniket8899/Leetcode-solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aniket8899/Leetcode-solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
