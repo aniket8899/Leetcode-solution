@@ -12,7 +12,7 @@ public:
         }
 
         long long ans=0;
-        vector<int>st;
+     
 
         while(k--){
             int top=maxheap.top();
