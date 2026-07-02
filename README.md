@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/aniket8899/Leetcode-solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/aniket8899/Leetcode-solution/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aniket8899/Leetcode-solution/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/aniket8899/Leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -451,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [1306-jump-game-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/aniket8899/Leetcode-solution/tree/main/1345-jump-game-iv/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -494,4 +498,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/aniket8899/Leetcode-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
