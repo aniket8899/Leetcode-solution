@@ -2,6 +2,7 @@ class Solution {
 public:
     long long gcdSum(vector<int>& nums) {
        long long maxi=INT_MIN;
+       
         vector<long long >prefixgrid;
        for(long long num:nums){
         maxi=max(maxi,num);
