@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3467-transform-array-by-parity](https://github.com/aniket8899/Leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniket8899/Leetcode-solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
