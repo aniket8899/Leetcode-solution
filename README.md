@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/aniket8899/Leetcode-solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/aniket8899/Leetcode-solution/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0419-battleships-in-a-board](https://github.com/aniket8899/Leetcode-solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0494-target-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/aniket8899/Leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/aniket8899/Leetcode-solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/aniket8899/Leetcode-solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [1306-jump-game-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1306-jump-game-iii/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aniket8899/Leetcode-solution/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/aniket8899/Leetcode-solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
