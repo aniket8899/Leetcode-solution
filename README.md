@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0494-target-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/aniket8899/Leetcode-solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0860-lemonade-change](https://github.com/aniket8899/Leetcode-solution/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/aniket8899/Leetcode-solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/aniket8899/Leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/aniket8899/Leetcode-solution/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0695-max-area-of-island](https://github.com/aniket8899/Leetcode-solution/tree/main/0695-max-area-of-island/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/aniket8899/Leetcode-solution/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0695-max-area-of-island](https://github.com/aniket8899/Leetcode-solution/tree/main/0695-max-area-of-island/) | Medium |
 | [1306-jump-game-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1306-jump-game-iii/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aniket8899/Leetcode-solution/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/aniket8899/Leetcode-solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -474,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0695-max-area-of-island](https://github.com/aniket8899/Leetcode-solution/tree/main/0695-max-area-of-island/) | Medium |
 | [1306-jump-game-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/aniket8899/Leetcode-solution/tree/main/1345-jump-game-iv/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aniket8899/Leetcode-solution/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -544,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0695-max-area-of-island](https://github.com/aniket8899/Leetcode-solution/tree/main/0695-max-area-of-island/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aniket8899/Leetcode-solution/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/aniket8899/Leetcode-solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
