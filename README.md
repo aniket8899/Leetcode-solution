@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/aniket8899/Leetcode-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/aniket8899/Leetcode-solution/tree/main/1345-jump-game-iv/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aniket8899/Leetcode-solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aniket8899/Leetcode-solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/aniket8899/Leetcode-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniket8899/Leetcode-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0135-candy](https://github.com/aniket8899/Leetcode-solution/tree/main/0135-candy/) | Hard |
 | [0860-lemonade-change](https://github.com/aniket8899/Leetcode-solution/tree/main/0860-lemonade-change/) | Easy |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aniket8899/Leetcode-solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/aniket8899/Leetcode-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniket8899/Leetcode-solution/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -449,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aniket8899/Leetcode-solution/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1340-jump-game-v](https://github.com/aniket8899/Leetcode-solution/tree/main/1340-jump-game-v/) | Hard |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/aniket8899/Leetcode-solution/tree/main/1771-maximize-palindrome-length-from-subsequences/) | Hard |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -560,4 +564,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aniket8899/Leetcode-solution/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/aniket8899/Leetcode-solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 <!---LeetCode Topics End-->
