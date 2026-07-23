@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aniket8899/Leetcode-solution/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aniket8899/Leetcode-solution/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/aniket8899/Leetcode-solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aniket8899/Leetcode-solution/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/aniket8899/Leetcode-solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0695-max-area-of-island](https://github.com/aniket8899/Leetcode-solution/tree/main/0695-max-area-of-island/) | Medium |
@@ -502,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aniket8899/Leetcode-solution/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aniket8899/Leetcode-solution/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/aniket8899/Leetcode-solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
