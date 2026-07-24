@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/aniket8899/Leetcode-solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0147-insertion-sort-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0148-sort-list/) | Medium |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniket8899/Leetcode-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aniket8899/Leetcode-solution/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/aniket8899/Leetcode-solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/aniket8899/Leetcode-solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -486,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aniket8899/Leetcode-solution/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aniket8899/Leetcode-solution/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/aniket8899/Leetcode-solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -509,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aniket8899/Leetcode-solution/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/aniket8899/Leetcode-solution/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/aniket8899/Leetcode-solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
