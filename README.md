@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/aniket8899/Leetcode-solution/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/aniket8899/Leetcode-solution/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/aniket8899/Leetcode-solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/aniket8899/Leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/aniket8899/Leetcode-solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aniket8899/Leetcode-solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aniket8899/Leetcode-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/aniket8899/Leetcode-solution/tree/main/1345-jump-game-iv/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aniket8899/Leetcode-solution/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/aniket8899/Leetcode-solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Tree
@@ -524,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aniket8899/Leetcode-solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aniket8899/Leetcode-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
