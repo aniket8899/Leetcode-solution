@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/aniket8899/Leetcode-solution/tree/main/2447-number-of-subarrays-with-gcd-equal-to-k/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/aniket8899/Leetcode-solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aniket8899/Leetcode-solution/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-total-distance-traveled](https://github.com/aniket8899/Leetcode-solution/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/aniket8899/Leetcode-solution/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/aniket8899/Leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/aniket8899/Leetcode-solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aniket8899/Leetcode-solution/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
