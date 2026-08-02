@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/aniket8899/Leetcode-solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0860-lemonade-change](https://github.com/aniket8899/Leetcode-solution/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/aniket8899/Leetcode-solution/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/aniket8899/Leetcode-solution/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/aniket8899/Leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/aniket8899/Leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniket8899/Leetcode-solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/aniket8899/Leetcode-solution/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/aniket8899/Leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aniket8899/Leetcode-solution/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1513-number-of-substrings-with-only-1s](https://github.com/aniket8899/Leetcode-solution/tree/main/1513-number-of-substrings-with-only-1s/) | Medium |
@@ -477,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/aniket8899/Leetcode-solution/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0494-target-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
+| [0877-stone-game](https://github.com/aniket8899/Leetcode-solution/tree/main/0877-stone-game/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aniket8899/Leetcode-solution/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1340-jump-game-v](https://github.com/aniket8899/Leetcode-solution/tree/main/1340-jump-game-v/) | Hard |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
@@ -621,4 +624,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/aniket8899/Leetcode-solution/tree/main/0146-lru-cache/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/aniket8899/Leetcode-solution/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
