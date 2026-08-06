@@ -22,7 +22,7 @@ public:
 
         // if(n==1 && t==1) return 1;
 
-        if(n<=t) return t;
+        // if(n<=t) return t;
 
         
 
