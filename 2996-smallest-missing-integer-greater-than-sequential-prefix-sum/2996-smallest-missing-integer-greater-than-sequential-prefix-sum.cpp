@@ -33,7 +33,7 @@ public:
             st.insert(nu);
         }
 
-        while(st.count(sum)){
+        while(st.find(sum)!=st.end()){
             sum++;
         }
 
