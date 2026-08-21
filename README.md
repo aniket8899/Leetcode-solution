@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/aniket8899/Leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
+| [0088-merge-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
 | [0135-candy](https://github.com/aniket8899/Leetcode-solution/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/aniket8899/Leetcode-solution/tree/main/0136-single-number/) | Easy |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/aniket8899/Leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0148-sort-list/) | Medium |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/aniket8899/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
