@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/aniket8899/Leetcode-solution/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/aniket8899/Leetcode-solution/tree/main/0051-n-queens/) | Hard |
+| [0057-insert-interval](https://github.com/aniket8899/Leetcode-solution/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/aniket8899/Leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
