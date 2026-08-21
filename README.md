@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aniket8899/Leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/aniket8899/Leetcode-solution/tree/main/0036-valid-sudoku/) | Medium |
 | [0037-sudoku-solver](https://github.com/aniket8899/Leetcode-solution/tree/main/0037-sudoku-solver/) | Hard |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/aniket8899/Leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
