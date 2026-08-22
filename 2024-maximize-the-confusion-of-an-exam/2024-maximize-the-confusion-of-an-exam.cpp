@@ -1,27 +1,37 @@
 class Solution {
 public:
-    int maxConsecutiveAnswers(string answerKey, int k) {
-        int n=answerKey.size();
-        unordered_map<char,int>mp;
+    int getmax(string s,int k,char ch){
+        int n=s.size();
 
-        int l=0,r=0,maxfreq=0,maxlen=0;
+        int i=0,j=0;
 
-        while(r<n){
-            mp[answerKey[r]]++;
+        int cnt=0;
+        int ans=0;
 
-            maxfreq=max(maxfreq,mp[answerKey[r]]);
+        while(j<n){
 
-            while((r-l+1)-maxfreq>k){
-                mp[answerKey[l]]--;
-                l++;
+            if(s[j]==ch){
+                cnt++;
             }
 
-            int len=r-l+1;
-            maxlen=max(maxlen,len);
+            while(cnt>k){
+                if(s[i]==ch){
+                    cnt--;
+                }
 
-            r++;
+                i++;
+            }
+
+            ans=max(ans,j-i+1);
+            j++;
         }
-        return maxlen;
-        
+
+        return ans;
+    }
+    int maxConsecutiveAnswers(string answerKey, int k) {
+        int t=getmax(answerKey,k,'T');
+        int f=getmax(answerKey,k,'F');
+
+        return max(t,f);
     }
 };
