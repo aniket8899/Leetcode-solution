@@ -36,13 +36,7 @@ public:
             cnt1--;
         }
     }
-    cnt1=0;
-    for(auto x:nums){
-        if(x==ele1){
-            cnt1++;
-        }
-        
-    }
+  
    
      
 
