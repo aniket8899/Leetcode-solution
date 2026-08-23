@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/aniket8899/Leetcode-solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/aniket8899/Leetcode-solution/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/aniket8899/Leetcode-solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0494-target-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0494-target-sum/) | Medium |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/aniket8899/Leetcode-solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/aniket8899/Leetcode-solution/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
 | [0877-stone-game](https://github.com/aniket8899/Leetcode-solution/tree/main/0877-stone-game/) | Medium |
@@ -694,4 +696,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/aniket8899/Leetcode-solution/tree/main/0169-majority-element/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
