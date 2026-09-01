@@ -1,66 +1,65 @@
+
+
+
 class LRUCache {
+
+ 
+
 public:
 
-    class Node{
 
-        public:
+class Node{
+public:
 
-        int val;
-        int key;
+int val;
+int key;
+Node* next;
+Node* prev;
 
-        Node* prev;
-        Node* next;
-
-        Node(int k,int v){
-            key=k;
-            val=v;
-            prev=next=NULL;
-        }
-
-    };
-
-     Node* head =new Node(-1,-1);
-     Node* tail=new Node(-1,-1);
-
-     unordered_map<int,Node*>mp;
-
-     int limit;
-
-        // insert head->next
-     void addNode(Node* newnode){
-        Node* oldtail=head->next;
-
-        head->next=newnode;
-        oldtail->prev=newnode;
-
-        newnode->next=oldtail;
-
-        newnode->prev=head;
-     }
-
-
-        // delete node tail->prev
-
-       void deleteNode(Node* oldnode){
-        Node* oldprev=oldnode->prev;
-        Node* oldnext=oldnode->next;
-
-        oldprev->next=oldnext;
-        oldnext->prev=oldprev;
-
-     }
+Node(int k,int v){
+    val=v;
+    key=k;
+    prev=next=NULL;
+}
 
 
 
-    LRUCache(int capacity) {
-        limit=capacity;
+
+};
+
+    int limit;
+    Node* head=new Node(-1,-1);
+    Node* tail=new Node(-1,-1);
+
+    unordered_map<int,Node*>mp;
+
+
+    LRUCache(int c) {
+        limit=c;
         head->next=tail;
         tail->prev=head;
+    }
 
+    void deletenode(Node* deletenode){
+        Node* prevnode=deletenode->prev;
+        Node* nextnode=deletenode->next;
+
+        prevnode->next=nextnode;
+        nextnode->prev=prevnode;
+    }
+
+    void addnode(Node* newnode){
+
+        Node* first=head->next;
+
+        head->next=newnode;
+        newnode->prev=head;
+        newnode->next=first;
+        first->prev=newnode;
     }
     
     int get(int key) {
-
+        
         if(mp.find(key)==mp.end()){
             return -1;
         }
@@ -68,48 +67,42 @@ public:
         Node* ansnode=mp[key];
         int ans=ansnode->val;
 
-        // most used ko phala layenga aur uska baad least use ko baad me
+        deletenode(ansnode);
 
-        mp.erase(key);
-
-        deleteNode(ansnode);
-
-        addNode(ansnode);
+        addnode(ansnode);
 
         mp[key]=ansnode;
 
-
-
         return ans;
-        
+
     }
     
     void put(int key, int value) {
 
-        // agar phala hi key present h 
-        // jaisa ki put (1,2) aur put(1,3) diya ho tab
+        // tw possibility h
+        // map me ho
+
         if(mp.find(key)!=mp.end()){
-            Node* oldnode=mp[key];
-            deleteNode(oldnode);
+            Node* temp=mp[key];
+
+            deletenode(temp);
 
             mp.erase(key);
+
         }
-
-
-        // capacity reach
 
         if(mp.size()==limit){
-            mp.erase(tail->prev->key);
-            deleteNode(tail->prev);
+            Node* oldnode=tail->prev;
+            deletenode(oldnode);
+            mp.erase(oldnode->key);
         }
-
-        // insert karo head ka next 
 
         Node* newnode=new Node(key,value);
 
-        addNode(newnode);
+        addnode(newnode);
 
         mp[key]=newnode;
+
         
     }
 };
