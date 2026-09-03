@@ -711,4 +711,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0584-find-customer-referee](https://github.com/aniket8899/Leetcode-solution/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
