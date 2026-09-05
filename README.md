@@ -721,5 +721,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/aniket8899/Leetcode-solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/aniket8899/Leetcode-solution/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/aniket8899/Leetcode-solution/tree/main/0595-big-countries/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aniket8899/Leetcode-solution/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/aniket8899/Leetcode-solution/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
