@@ -47,10 +47,10 @@ public:
                 l++;
             }
 
-            if(zero<=k){
+            
                 int len=r-l+1;
                 maxlen=max(maxlen,len);
-            }
+            
 
             r++;
         }
