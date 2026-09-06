@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniket8899/Leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0072-edit-distance](https://github.com/aniket8899/Leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
+| [0115-distinct-subsequences](https://github.com/aniket8899/Leetcode-solution/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/aniket8899/Leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/aniket8899/Leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/aniket8899/Leetcode-solution/tree/main/0072-edit-distance/) | Medium |
+| [0115-distinct-subsequences](https://github.com/aniket8899/Leetcode-solution/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/aniket8899/Leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/aniket8899/Leetcode-solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
