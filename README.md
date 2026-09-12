@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aniket8899/Leetcode-solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0695-max-area-of-island](https://github.com/aniket8899/Leetcode-solution/tree/main/0695-max-area-of-island/) | Medium |
 | [1306-jump-game-iii](https://github.com/aniket8899/Leetcode-solution/tree/main/1306-jump-game-iii/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniket8899/Leetcode-solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/aniket8899/Leetcode-solution/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/aniket8899/Leetcode-solution/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/aniket8899/Leetcode-solution/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aniket8899/Leetcode-solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aniket8899/Leetcode-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniket8899/Leetcode-solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -601,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aniket8899/Leetcode-solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aniket8899/Leetcode-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniket8899/Leetcode-solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
