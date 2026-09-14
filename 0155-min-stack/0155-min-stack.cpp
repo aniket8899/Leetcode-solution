@@ -15,19 +15,21 @@ public:
     void pop() {
         int top=st.top();
         st.pop();
-       priority_queue<int, vector<int>, greater<int>> temp;
+       
+        priority_queue<int,vector<int>,greater<int>>temp;
 
-    while (pq.top() != top) {
-        temp.push(pq.top());
+        while(pq.top()!=top){
+            temp.push(pq.top());
+            pq.pop();
+        }
+
+        // uska baad mil gya top element
         pq.pop();
-    }
 
-    pq.pop();
-
-    while (!temp.empty()) {
-        pq.push(temp.top());
-        temp.pop();
-    }
+        while(!temp.empty()){
+            pq.push(temp.top());
+            temp.pop();
+        }
     }
     
     int top() {
