@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0155-min-stack](https://github.com/aniket8899/Leetcode-solution/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/aniket8899/Leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0402-remove-k-digits](https://github.com/aniket8899/Leetcode-solution/tree/main/0402-remove-k-digits/) | Medium |
@@ -705,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/aniket8899/Leetcode-solution/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/aniket8899/Leetcode-solution/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/aniket8899/Leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
