@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aniket8899/Leetcode-solution/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/aniket8899/Leetcode-solution/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/aniket8899/Leetcode-solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aniket8899/Leetcode-solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aniket8899/Leetcode-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniket8899/Leetcode-solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -624,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/aniket8899/Leetcode-solution/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/aniket8899/Leetcode-solution/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aniket8899/Leetcode-solution/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aniket8899/Leetcode-solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -652,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aniket8899/Leetcode-solution/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -712,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/aniket8899/Leetcode-solution/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/aniket8899/Leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -766,4 +771,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
