@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/aniket8899/Leetcode-solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniket8899/Leetcode-solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aniket8899/Leetcode-solution/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/aniket8899/Leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/aniket8899/Leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/aniket8899/Leetcode-solution/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/aniket8899/Leetcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/aniket8899/Leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -708,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/aniket8899/Leetcode-solution/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/aniket8899/Leetcode-solution/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/aniket8899/Leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -758,4 +762,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aniket8899/Leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
