@@ -38,9 +38,8 @@ public:
 
             // caary niklna hai
             carry=sum/10;
-            int rem=sum%10;
 
-            ListNode* node=new ListNode(rem);
+            ListNode* node=new ListNode(sum%10);
             temp->next=node;
             temp=temp->next;
 
