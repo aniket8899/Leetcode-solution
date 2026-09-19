@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/aniket8899/Leetcode-solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0695-max-area-of-island](https://github.com/aniket8899/Leetcode-solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0835-image-overlap](https://github.com/aniket8899/Leetcode-solution/tree/main/0835-image-overlap/) | Medium |
+| [0846-hand-of-straights](https://github.com/aniket8899/Leetcode-solution/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/aniket8899/Leetcode-solution/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/aniket8899/Leetcode-solution/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/aniket8899/Leetcode-solution/tree/main/0877-stone-game/) | Medium |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/aniket8899/Leetcode-solution/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aniket8899/Leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0846-hand-of-straights](https://github.com/aniket8899/Leetcode-solution/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/aniket8899/Leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/aniket8899/Leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -383,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/aniket8899/Leetcode-solution/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/aniket8899/Leetcode-solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/aniket8899/Leetcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0846-hand-of-straights](https://github.com/aniket8899/Leetcode-solution/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/aniket8899/Leetcode-solution/tree/main/0860-lemonade-change/) | Easy |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aniket8899/Leetcode-solution/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -427,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniket8899/Leetcode-solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0846-hand-of-straights](https://github.com/aniket8899/Leetcode-solution/tree/main/0846-hand-of-straights/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/aniket8899/Leetcode-solution/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/aniket8899/Leetcode-solution/tree/main/1340-jump-game-v/) | Hard |
