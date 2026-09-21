@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aniket8899/Leetcode-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/aniket8899/Leetcode-solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2181-merge-nodes-in-between-zeros](https://github.com/aniket8899/Leetcode-solution/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2295-replace-elements-in-an-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2295-replace-elements-in-an-array/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/aniket8899/Leetcode-solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aniket8899/Leetcode-solution/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
