@@ -1,64 +1,43 @@
 class Solution {
 public:
-    string removeKdigits(string num, int k) {
-
-        int n=num.size();
-
+    string removeKdigits(string digits, int k) {
+        
+        int n=digits.size();
         stack<char>st;
         string ans="";
 
-        for(int i=0;i<n;i++){
-            while(!st.empty() && st.top()>num[i] && k>0){
+       for(int i=0;i<n;i++){
+
+            while(!st.empty() && st.top()>digits[i] && k>0){
                 st.pop();
                 k--;
-                
             }
 
-            cout<<num[i]<<endl;
-            
+            st.push(digits[i]);
+       }
 
-            st.push(num[i]);
+       while(!st.empty() && k>0){
+        st.pop();
+        k--;
+       }
 
-            // cout<<st.top()<<endl;
+       while(!st.empty()){
+        ans+=st.top();
+        st.pop();
+       }
 
-        }
+       reverse(ans.begin(),ans.end());
 
+       int i=0;
 
-        // agar k is remaining
+       while(i<ans.size() && ans[i]=='0'){
+        i++;
+       }
 
-        while(!st.empty() && k>0){
-            st.pop();
-            k--;
-        }
+       ans=ans.substr(i);
 
+       if(ans=="") return "0";
 
-        
-
-        while(!st.empty()){
-            
-            ans+=st.top();
-            st.pop();
-           
-            }
-
-            cout<<ans<<endl;
-
-        reverse(ans.begin(),ans.end());
-
-
-        int i=0;
-
-        while(i<ans.size() && ans[i]=='0'){  // remove leading zero
-            i++;
-        }
-
-        ans=ans.substr(i);
-
-        if(ans=="") return "0";
-
-        return ans;
-
-
-        
+       return ans;
     }
 };
