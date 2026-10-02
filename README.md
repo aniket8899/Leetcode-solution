@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/aniket8899/Leetcode-solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniket8899/Leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/aniket8899/Leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/aniket8899/Leetcode-solution/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/aniket8899/Leetcode-solution/tree/main/0115-distinct-subsequences/) | Hard |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aniket8899/Leetcode-solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/aniket8899/Leetcode-solution/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0040-combination-sum-ii/) | Medium |
@@ -561,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0064-minimum-path-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/aniket8899/Leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/aniket8899/Leetcode-solution/tree/main/0115-distinct-subsequences/) | Hard |
@@ -804,6 +807,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniket8899/Leetcode-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aniket8899/Leetcode-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
