@@ -258,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/aniket8899/Leetcode-solution/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/aniket8899/Leetcode-solution/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/aniket8899/Leetcode-solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aniket8899/Leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aniket8899/Leetcode-solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/aniket8899/Leetcode-solution/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2278-percentage-of-letter-in-string](https://github.com/aniket8899/Leetcode-solution/tree/main/2278-percentage-of-letter-in-string/) | Easy |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aniket8899/Leetcode-solution/tree/main/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aniket8899/Leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/aniket8899/Leetcode-solution/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aniket8899/Leetcode-solution/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aniket8899/Leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aniket8899/Leetcode-solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -412,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/aniket8899/Leetcode-solution/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aniket8899/Leetcode-solution/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aniket8899/Leetcode-solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aniket8899/Leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aniket8899/Leetcode-solution/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aniket8899/Leetcode-solution/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/aniket8899/Leetcode-solution/tree/main/2126-destroying-asteroids/) | Medium |
@@ -824,5 +828,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aniket8899/Leetcode-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aniket8899/Leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/aniket8899/Leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aniket8899/Leetcode-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
