@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/aniket8899/Leetcode-solution/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/aniket8899/Leetcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aniket8899/Leetcode-solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0494-target-sum](https://github.com/aniket8899/Leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/aniket8899/Leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/aniket8899/Leetcode-solution/tree/main/0135-candy/) | Hard |
 | [0402-remove-k-digits](https://github.com/aniket8899/Leetcode-solution/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/aniket8899/Leetcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aniket8899/Leetcode-solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/aniket8899/Leetcode-solution/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0846-hand-of-straights](https://github.com/aniket8899/Leetcode-solution/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/aniket8899/Leetcode-solution/tree/main/0860-lemonade-change/) | Easy |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/aniket8899/Leetcode-solution/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/aniket8899/Leetcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/aniket8899/Leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aniket8899/Leetcode-solution/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/aniket8899/Leetcode-solution/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0846-hand-of-straights](https://github.com/aniket8899/Leetcode-solution/tree/main/0846-hand-of-straights/) | Medium |
