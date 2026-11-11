@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/aniket8899/Leetcode-solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/aniket8899/Leetcode-solution/tree/main/0146-lru-cache/) | Medium |
@@ -387,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/aniket8899/Leetcode-solution/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aniket8899/Leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/aniket8899/Leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
