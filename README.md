@@ -542,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/aniket8899/Leetcode-solution/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/aniket8899/Leetcode-solution/tree/main/0136-single-number/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/aniket8899/Leetcode-solution/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aniket8899/Leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/aniket8899/Leetcode-solution/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
